@@ -8,22 +8,22 @@
 <table  border=5  bordercolor=red align=center>
 <tr height=70 bgcolor=white align='center'>
 <td width=200 colspan=6 align=center
-><font size=5 ><b><a href=http://blog.sina.com.cn/u/3083814572>个人简历
+><font size=5 ><b><>个人简历
 
 </a></b></font></td>
 </tr>
 
 <tr height=50 bgcolor=white>
 <td width=200 align=center
-><font size=5>姓名：</td>
+><font size=5>姓名：
 <td width=200 align=center
 ><font size=5><a
 
-href=http://user.qzone.qq.com/504660181/infocenter#home>田立红</td>
+href=http://user.qzone.qq.com/504660181/infocenter#home>田立红<
 <td width=110 align=center
-><font size=5>性别：</td>
+><font size=5>性别：
 <td width=200 align=center
-><font size=5>女</td>
+><font size=5>女
 <td width=200 colspan=2 rowspan=4><img
 
 src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb.1000_0.jpeg" alt="田立红照片" width=200 height=200></td>
@@ -32,72 +32,72 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
 <tr height=50 bgcolor=white>
 <td width=110 align=center
 ><font size=4 align=center
->出生年月：</td>
+>出生年月：
 <td width=200 align=center
-><font size=5>2000.12.4</td>
+><font size=5>2000.12.4
 <td width=200 align=center
-><font size=5>民族：</td>
+><font size=5>民族：
 <td width=200 align=center
-><font size=5>汉</td>
+><font size=5>汉
 
 </tr>
 
 
 <tr height=50 bgcolor=white>
 <td width=200 align=center
-><font size=5>学历：</td>
+><font size=5>学历：
 <td width=200 align=center
 ><font size=5 align=center
->大专</td>
+>大专
 <td width=200 align=center
-><font size=5>专业：</td>
+><font size=5>专业：
 <td width=200 align=center
-><font size=4>云计算技术与应用</td>
+><font size=4>云计算技术与应用
 
 </tr>
 
 
 <tr height=50 bgcolor=white>
 <td width=200 align=center
-><font size=5>籍贯：</td>
+><font size=5>籍贯：
 <td width=200 align=center
-><font size=4>重庆渝北</td>
+><font size=4>重庆渝北
 <td width=200 align=center
-><font size=4>联系电话：</td>
+><font size=4>联系电话：
 <td width=200 align=center
-><font size=3>15823345463</td>
+><font size=3>15823345463
 
 </tr>
 
 
 <tr height=50 bgcolor=white>
 <td width=200 align=center
-><font size=4>毕业学校：</td>
+><font size=4>毕业学校：
 <td width=200 colspan=5 align=center
-><font size=5>重庆工程职业技术学院</td>
+><font size=5>重庆工程职业技术学院
 </tr>
 
 
 <tr height=50 bgcolor=white>
 <td width=200 align=center
-><font size=5>住址：</td>
+><font size=5>住址：
 <td width=200 colspan=5 align=center
-><font size=5>重庆市江津区南北大道1号重庆工程职业技术学院</td>
+><font size=5>重庆市江津区南北大道1号重庆工程职业技术学院
 </tr>
 
  
 
 <tr height=50 bgcolor=white>
 <td width=200 align=center
-><font size=4>电子邮箱：</td>
+><font size=4>电子邮箱：
 <td width=200 colspan=5 align=center
-><font size=5>1846945086@qq.com</td>
+><font size=5>1846945086@qq.com
 </tr>
 
 
 <tr height=50 bgcolor=white>
 <td width=200 colspan=6 align=center
-><font size=5>教育历程</td>
+><font size=5>教育历程
 </tr>
 
 <tr height=50 bgcolor=white>
@@ -107,13 +107,13 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
 </tr>
 
 <tr height=50 bgcolor=white>
-<td width=200  colspan=6 align=center>2019.9-至今 重庆工程职业技术学院</td>
+<td width=200  colspan=6 align=center>2019.9-至今 重庆工程职业技术学院
 </tr>
 
 
 <tr height=50 bgcolor=white>
     <td width=200 colspan=6 align=center
-    ><font size=5>奖励证书</td>
+    ><font size=5>奖励证书
     </tr>
     
     
@@ -129,7 +129,7 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
 
 <tr height=50 bgcolor=white>
 <td width=200 colspan=6 align=center
-><font size=5>自我评价</td>
+><font size=5>自我评价
 </tr>
 
 
