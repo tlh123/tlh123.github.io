@@ -8,10 +8,8 @@
 <table  border=5  bordercolor=red align=center>
 <tr height=70 bgcolor=white align='center'>
 <td width=200 colspan=6 align=center
-><font size=5 >个人简历
-
-</b></font></td>
-</tr>
+><font size=5>个人简历
+<td width=200 align=center
 
 <tr height=50 bgcolor=white>
 <td width=200 align=center
