@@ -8,9 +8,9 @@
 <table  border=5  bordercolor=red align=center>
 <tr height=70 bgcolor=white align='center'>
 <td width=200 colspan=6 align=center
-><font size=5 ><b><>个人简历
+><font size=5 >个人简历
 
-</a></b></font></td>
+</b></font></td>
 </tr>
 
 <tr height=50 bgcolor=white>
