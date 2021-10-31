@@ -1,181 +1,146 @@
 <html>
-
 <head>
-  <meta charset="UTF-8">
-  <title>个人简历</title>
-  <style type="text/css">
-    div {
-      border-radius: 10px;
-      border: 1px solid black;
-    }
-
-    #container {
-      background-color: rgb(247, 188, 181);
-      width:906px;
-      height: 900px;
-      align-items:Center;
-    }
-
-    #container1 {
-      background-color: rgb(197, 243, 252);
-      width: 906px;
-      height: 90px;
-    }
-
-    #container2 {
-      background-color: rgb(247, 188, 181);
-      width: 300px;
-      height: 800px;
-      float: left;
-    }
-
-    #container3 {
-      background-color: rgb(247, 188, 181);
-      width: 601px;
-      height: 800px;
-      float: left;
-    }
-
-    #a {
-      background-color: rgb(247, 188, 181);
-      width: 300px;
-      height: 200px;
-    }
-
-    #b {
-      background-color: rgb(247, 188, 181);
-      width: 300px;
-      height: 150px;
-    }
-
-    #c {
-      background-color: rgb(247, 188, 181);
-      width: 300px;
-      height: 150px;
-    }
-
-    #d {
-      background-color: rgb(247, 188, 181);
-      width: 300px;
-      height: 300px;
-    }
-
-    #e {
-      background-color: rgb(247, 188, 181);
-      width: 600px;
-      height: 150px;
-    }
-
-    #f {
-      background-color: rgb(247, 188, 181);
-      width: 600px;
-      height: 150px;
-    }
-
-    #g {
-      background-color: rgb(247, 188, 181);
-      width: 600px;
-      height: 300px;
-    }
-
-    #h {
-      background-color: rgb(247, 188, 181);
-      width: 600px;
-      height: 200px;
-    }
-
-    #a1 {
-      text-align: center;
-    }
-
-    #d1 {
-      font-family: Georgia, 'Times New Roman', Times, serif;
-    }
-
-    #h1 {
-      text-decoration: underline;
-    }
-
-    #g1 {
-      font-size: 14px;
-    }
-  </style>
+<title>田立红</title>
+<mate name="keywords" content="个人简历"/>
+<mate name="description" content="田立红的个人简历"/>
 </head>
-
 <body>
-  <div id="container">
-    <div id="container1">
-      <h1 align="center">个人简历</h1>
-    </div>
-    <div id="container2">
-      <div id="a">
-        <div>照片</div>
-        <div id="a1"><img src="ggg.png"
-            width="140" height="152">
-        </div>
-      </div>
-      <div id="b">
-        <div>联系方式</div>
-        <p>电话：15737855255</p>
-        <p>微信：15737855255</p>
-        <p>邮箱：88888888@qq.com</p>
-      </div>
-      <div id="c">
-        <div>个人标签</div>
+<table  border=5  bordercolor=red align=center>
+<tr height=70 bgcolor=white align='center'>
+<td width=720 colspan=6 align=center
+><font size=5 ><b><a href=http://blog.sina.com.cn/u/3083814572>个人简历
 
-      </div>
-      <div id="d">
-        <div>办公技能</div>
-        <ul id="d1">
-          <li>Linux</li><br>
-          <li>Python</li><br>
-          <li>Office</li><br>
-          <li>CAD</li><br>
-          <li>Java</li><br>
-          <li>CSS</li><br>
-          <li>HTML</li>
-        </ul>
-      </div>
-    </div>
-    <div id="container3">
-      <div id="e">
-        <div>个人信息</div>
-        <div id="e1">
-          <p>姓名：张博威|性别：男|籍贯：河南|学历：大专</p>
-          <p>居住地：重庆江津双福</p>
-          <p>通讯地址：重庆工程职业技术学院</p>
-        </div>
-      </div>
-      <div id="f">
-        <div>教育背景</div>
-        <div>
-          <p></p>
-          <p>重庆工程职业技术学院|云计算技术与应用</p>
-          <p>主修课程：《Linux》《python》《java》</p>
-          <p>《web》《OpenStack》《可视化》</p>
-        </div>
-      </div>
-      <div id="g">
-        <div>相关经验</div>
-        <ul>
-          <li>学习</li>
-          <ul id="g1">
-            <li>好好学习</li>
-            <li>天天向上</li>
-         
-          </ul>
-        </ul>
-      </div>
-      <div id="h">
-        <div>获奖证书</div>
-        <ul id="h1">
-          <li>QAQ QAQ</li>
-          <li>QAQ QAQ</li>
-        
-        </ul>
-      </div>
-    </div>
-  </div>
-</body>
+</a></b></font></td>
+</tr>
 
-</html>
+<tr height=50 bgcolor=white>
+<td width=110 align=center
+><font size=5>姓名：</td>
+<td width=150 align=center
+><font size=5><a
+
+href=http://user.qzone.qq.com/504660181/infocenter#home>田立红</td>
+<td width=110 align=center
+><font size=5>性别：</td>
+<td width=150 align=center
+><font size=5>女</td>
+<td width=200 colspan=2 rowspan=4><img
+
+src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb.1000_0.jpeg" alt="田立红照片" width=200 height=200></td>
+ </tr>
+
+<tr height=50 bgcolor=white>
+<td width=110 align=center
+><font size=4 align=center
+>出生年月：</td>
+<td width=150 align=center
+><font size=5>2000.12.4</td>
+<td width=110 align=center
+><font size=5>民族：</td>
+<td width=150 align=center
+><font size=5>汉</td>
+
+</tr>
+
+
+<tr height=50 bgcolor=white>
+<td width=110 align=center
+><font size=5>学历：</td>
+<td width=150 align=center
+><font size=5 align=center
+>大专</td>
+<td width=110 align=center
+><font size=5>专业：</td>
+<td width=150 align=center
+><font size=4>云计算技术与应用</td>
+
+</tr>
+
+
+<tr height=50 bgcolor=white>
+<td width=110 align=center
+><font size=5>籍贯：</td>
+<td width=150 align=center
+><font size=4>重庆渝北</td>
+<td width=110 align=center
+><font size=4>联系电话：</td>
+<td width=150 align=center
+><font size=3>15823345463</td>
+
+</tr>
+
+
+<tr height=50 bgcolor=white>
+<td width=100 align=center
+><font size=4>毕业学校：</td>
+<td width=620 colspan=5 align=center
+><font size=5>重庆工程职业技术学院</td>
+</tr>
+
+
+<tr height=50 bgcolor=white>
+<td width=110 align=center
+><font size=5>住址：</td>
+<td width=610 colspan=5 align=center
+><font size=5>重庆市江津区南北大道1号重庆工程职业技术学院</td>
+</tr>
+
+ 
+
+<tr height=50 bgcolor=white>
+<td width=110 align=center
+><font size=4>电子邮箱：</td>
+<td width=610 colspan=5 align=center
+><font size=5>1846945086@qq.com</td>
+</tr>
+
+
+<tr height=50 bgcolor=white>
+<td width=720 colspan=6 align=center
+><font size=5>教育历程</td>
+</tr>
+
+<tr height=50 bgcolor=white>
+<td width=720  colspan=6 align=center>20016.9-2019.3  重庆育仁中学
+
+</td>
+</tr>
+
+<tr height=50 bgcolor=white>
+<td width=720  colspan=6 align=center>2019.9-至今 重庆工程职业技术学院</td>
+</tr>
+
+
+<tr height=50 bgcolor=white>
+    <td width=720 colspan=6 align=center
+    ><font size=5>奖励证书</td>
+    </tr>
+    
+    
+    <tr height=50 bgcolor=white>
+    <td width=720  colspan=6>2020年获得重庆市大学生网球比赛女子乙组团体二等奖
+        2020年获得甲等奖学金
+        2021年获得校级体育活动先进个人
+        2021年获得市级体育活动先进个人
+    
+    </td>
+    </tr>
+
+
+<tr height=50 bgcolor=white>
+<td width=720 colspan=6 align=center
+><font size=5>自我评价</td>
+</tr>
+
+
+<tr height=50 bgcolor=white>
+<td width=720  colspan=6>性格开朗，平易近人，工作认真负责，能吃苦耐劳，尽职尽责。
+
+</td>
+</tr>
+
+
+<tr height=50 bgcolor=white>
+<td width=720 colspan=6></td>
+</tr>
+</table>
