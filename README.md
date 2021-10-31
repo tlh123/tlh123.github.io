@@ -40,7 +40,6 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
 <td width=200 align=center
 ><font size=5>汉
 
-</tr>
 
 
 <tr height=50 bgcolor=white>
@@ -54,7 +53,7 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
 <td width=200 align=center
 ><font size=4>云计算技术与应用
 
-</tr>
+
 
 
 <tr height=50 bgcolor=white>
@@ -67,7 +66,6 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
 <td width=200 align=center
 ><font size=3>15823345463
 
-</tr>
 
 
 <tr height=50 bgcolor=white>
@@ -75,7 +73,7 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
 ><font size=4>毕业学校：
 <td width=200 colspan=5 align=center
 ><font size=5>重庆工程职业技术学院
-</tr>
+
 
 
 <tr height=50 bgcolor=white>
@@ -83,7 +81,6 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
 ><font size=5>住址：
 <td width=200 colspan=5 align=center
 ><font size=5>重庆市江津区南北大道1号重庆工程职业技术学院
-</tr>
 
  
 
@@ -92,13 +89,13 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
 ><font size=4>电子邮箱：
 <td width=200 colspan=5 align=center
 ><font size=5>1846945086@qq.com
-</tr>
+
 
 
 <tr height=50 bgcolor=white>
 <td width=200 colspan=6 align=center
 ><font size=5>教育历程
-</tr>
+
 
 <tr height=50 bgcolor=white>
 <td width=200  colspan=6 align=center>20016.9-2019.3  重庆育仁中学
@@ -108,13 +105,13 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
 
 <tr height=50 bgcolor=white>
 <td width=200  colspan=6 align=center>2019.9-至今 重庆工程职业技术学院
-</tr>
+
 
 
 <tr height=50 bgcolor=white>
     <td width=200 colspan=6 align=center
     ><font size=5>奖励证书
-    </tr>
+
     
     
     <tr height=100 bgcolor=white>
@@ -130,7 +127,7 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
 <tr height=50 bgcolor=white>
 <td width=200 colspan=6 align=center
 ><font size=5>自我评价
-</tr>
+
 
 
 <tr height=50 bgcolor=white>
