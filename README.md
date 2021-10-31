@@ -117,8 +117,8 @@ src="https://c-ssl.duitang.com/uploads/item/202003/29/20200329213234_vfqhl.thumb
     </tr>
     
     
-    <tr height=1000 bgcolor=white>
-    <td width=200  colspan=6>2020年获得重庆市大学生网球比赛女子乙组团体二等奖
+    <tr height=100 bgcolor=white>
+    <td width=300  colspan=6>2020年获得重庆市大学生网球比赛女子乙组团体二等奖
         2020年获得甲等奖学金
         2021年获得校级体育活动先进个人
         2021年获得市级体育活动先进个人
