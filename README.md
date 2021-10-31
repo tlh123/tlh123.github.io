@@ -18,8 +18,7 @@
 ><font size=5>姓名：
 <td width=200 align=center
 ><font size=5><a
-
-href=http://user.qzone.qq.com/504660181/infocenter#home>田立红<
+>田立红<
 <td width=110 align=center
 ><font size=5>性别：
 <td width=200 align=center
